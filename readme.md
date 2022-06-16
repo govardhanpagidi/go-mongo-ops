@@ -1,5 +1,5 @@
 # go connectivity and some basic operations like 
 
-##Insert
-##Aggregation
-##Transactions
+    1. Insert
+    2. Aggregation
+    3. Transactions
